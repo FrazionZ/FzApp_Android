@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FrazionZ</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Accueil</string>
+    <string name="title_profile">Profil</string>
+    <string name="title_settings">Paramètres</string>
+    <string name="title_shop">Boutique</string>
+    <string name="title_activity_login">Connexion à votre compte</string>
+    <string name="prompt_email">Adresse Mail</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="action_sign_in">Se connecter</string>
+    <string name="action_sign_in_short">FrazionZ</string>
+    <string name="action_sign_in_welcome_short">Ravie de vous revoir !</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="prompt_2fa">Code</string>
+    <string name="action_sign_in_2fa">Confirmer le code</string>
+    <string name="add_account">Ajouter un compte</string>
+    <string name="twofa_login_expl">Veuillez indiquer le code à deux facteur</string>
+</resources>

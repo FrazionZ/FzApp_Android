@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/drawable/add.xml" value="0.2095" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/drawable/door_close.xml" value="0.2095" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/drawable/door_open.xml" value="0.2095" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/drawable/envelope.xml" value="0.2095" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/drawable/ic_baseline_fingerprint_24.xml" value="0.2095" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/drawable/login.xml" value="0.2935" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/drawable/logout.xml" value="0.2935" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/drawable/money.xml" value="0.2095" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/drawable/pencil.xml" value="0.2095" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/drawable/shop.xml" value="0.2095" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/layout/activity_addaccount.xml" value="0.3453703703703704" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/layout/activity_home.xml" value="0.3614583333333333" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/layout/activity_login.xml" value="0.3314950980392157" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/layout/activity_login_twofactor.xml" value="0.23445945945945945" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/layout/activity_main_login.xml" value="0.3614583333333333" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/layout/card_inventory_item.xml" value="0.5" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/layout/card_profile_data.xml" value="0.5" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/layout/card_shopitem_data.xml" value="0.16893115942028986" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/layout/fragment_home.xml" value="0.1757852077001013" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/layout/fragment_home_listview_footer.xml" value="0.3614583333333333" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/layout/fragment_profile.xml" value="0.22708333333333333" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/layout/fragment_profile_infos.xml" value="0.16893115942028986" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/layout/fragment_profile_inv.xml" value="0.3614583333333333" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/layout/fragment_shop.xml" value="0.22708333333333333" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/layout/fragment_shop_items.xml" value="0.22708333333333333" />
+        <entry key="..\:/Developpement/FrazionZ/Android/FrazionZ/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/drawable/background_gradient_presentation.xml" value="0.3776041666666667" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/drawable/door_close.xml" value="0.2095" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/drawable/door_open.xml" value="0.2095" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/drawable/dots_offline.xml" value="0.2095" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/drawable/dots_online.xml" value="0.2095" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/drawable/envelope.xml" value="0.2095" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/drawable/fingerprint.xml" value="0.2095" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/drawable/logout.xml" value="0.2095" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/drawable/money.xml" value="0.2095" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/drawable/pencil.xml" value="0.2095" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/drawable/refresh.xml" value="0.2095" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/drawable/test.xml" value="0.2095" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/drawable/user.xml" value="0.2095" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/layout-v28/activity_home.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/layout/activity_addaccount.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/layout/activity_main.xml" value="0.29528985507246375" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/layout/activity_main_login.xml" value="0.2669962917181706" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/layout/card_profile_data.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/layout/fragment_home.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/layout/fragment_home_listview_footer.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/layout/fragment_profile.xml" value="0.2596783799880881" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/layout/fragment_profile_infos.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/layout/fragment_settings.xml" value="0.1" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/layout/item_post.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/RacconFlow/AndroidStudioProjects/FrazionZ/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.18703703703703703" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
